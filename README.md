@@ -1,8 +1,8 @@
-
 # AI Powered Fitness Website
 
 This project is an AI-powered fitness platform featuring an integrated virtual assistant and chatbot to provide personalized fitness advice, workout plans, and nutritional guidance. Built using modern web technologies, the platform ensures a seamless and interactive user experience.
 
+![image alt](https://github.com/ayushr12/AI-Powered-Fitness-website/blob/bbb20246798544616a6fa4e1db66dd02c5e6a4d8/Screenshot%202025-01-16%20022634.png)
 
 ## Features
 
